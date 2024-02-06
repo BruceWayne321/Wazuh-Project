@@ -1,4 +1,4 @@
-# Securing Your Home Lab: Implementing Wazuh for Threat Detection and Incident Response
+# Securing Your Home Lab: Implementing Wazuh for Endpoint Detection and Response
 
 ## Introduction
 
